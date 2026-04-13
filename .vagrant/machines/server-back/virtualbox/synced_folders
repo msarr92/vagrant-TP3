@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/backend":{"guestpath":"/home/vagrant/backend","hostpath":"C:/Users/bmd/Desktop/school/devops/TP3/backend","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/bmd/Desktop/school/devops/TP3","disabled":false,"__vagrantfile":true}}}
